@@ -4,13 +4,14 @@ This repository contains all the projects and tasks completed during my Machine 
 
 ## Internship Tasks Directory
 
-1. **[Credit Scoring Model](./CodeAlpha_CreditScoringModel/)**
+1. **[Credit Scoring Model](./CodeAlpha_Credit_Scoring_Model/)**
+   
    - An optimized Random Forest Classifier built with balanced class weights to handle data imbalance and predict credit default risk with 93% accuracy. It features an interactive web deployment dashboard built using Streamlit to evaluate customer financial parameters live.
 
-2. **Project 2 (Coming Soon)**
+3. **Project 2 (Coming Soon)**
    - Brief description and documentation of the second machine learning task once implemented.
 
-3. **Project 3 (Coming Soon)**
+4. **Project 3 (Coming Soon)**
    - Brief description and documentation of the third machine learning task once implemented.
 
 ## Core Technologies and Frameworks
