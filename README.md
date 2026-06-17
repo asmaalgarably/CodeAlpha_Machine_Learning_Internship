@@ -4,12 +4,13 @@ This repository contains all the projects and tasks completed during my Machine 
 
 ## Internship Tasks Directory
 
-1. **[Credit Scoring Model](./CodeAlpha_Credit_Scoring_Model/)**
+1. **[Credit Scoring Model](./CodeAlpha_CreditScoringModel)**
    
    - An optimized Random Forest Classifier built with balanced class weights to handle data imbalance and predict credit default risk with 93% accuracy. It features an interactive web deployment dashboard built using Streamlit to evaluate customer financial parameters live.
 
-3. **Project 2 (Coming Soon)**
-   - Brief description and documentation of the second machine learning task once implemented.
+### 2. 🎙️ [Speech Emotion Recognition](./CodeAlpha_Speech Emotion Recognition)
+* **Description:** A Deep Learning application that classifies human emotions from speech audio files.
+* **Tech Stack:** Python, TensorFlow/Keras, 1D-CNN, Librosa, Streamlit.
 
 4. **Project 3 (Coming Soon)**
    - Brief description and documentation of the third machine learning task once implemented.
