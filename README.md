@@ -9,8 +9,7 @@ An optimized Random Forest Classifier built with balanced class weights to handl
 ### 2. 🎙️ [Speech Emotion Recognition](./CodeAlpha_Speech_Emotion_Recognition)
 An advanced Deep Learning application utilizing a custom 1D-Convolutional Neural Network (1D-CNN) to analyze and classify human affective states from speech audio files with high temporal resolution. It features robust feature extraction using Mel-Frequency Cepstral Coefficients (MFCCs) via Librosa, alongside an interactive Streamlit web dashboard to upload, visualize, and predict audio emotions dynamically in real-time.
 
-4. **Project 3 (Coming Soon)**
-   - Brief description and documentation of the third machine learning task once implemented.
+
 
 ## Core Technologies and Frameworks
 
